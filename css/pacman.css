@@ -1,0 +1,8 @@
+body {
+  background: black;
+}
+
+#pacman {
+  border: solid gray;
+  margin: 30px;
+}
